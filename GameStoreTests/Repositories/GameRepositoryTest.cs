@@ -1,6 +1,6 @@
 namespace GameStoreTests
 {
-    public class UnitTest1
+    public class GameRepositoryTest
     {
         [Fact]
         public void Test1()
