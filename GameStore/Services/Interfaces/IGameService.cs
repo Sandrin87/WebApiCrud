@@ -1,6 +1,5 @@
-﻿namespace GameStore.Services.Interfaces
+﻿namespace GameStore.Services.Interfaces;
+
+public interface IGameService
 {
-    public interface IGameService
-    {
-    }
 }

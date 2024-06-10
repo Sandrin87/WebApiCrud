@@ -1,6 +1,5 @@
-﻿namespace GameStore.Services
+﻿namespace GameStore.Services;
+
+public class GameService
 {
-    public class GameService
-    {
-    }
 }

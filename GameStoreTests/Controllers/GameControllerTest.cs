@@ -1,11 +1,14 @@
-namespace GameStoreTests
-{
-    public class GameServiceTest
-    {
-        [Fact]
-        public void Test1()
-        {
+namespace GameStoreTests;
 
-        }
+public class GameServiceTest
+{
+    [Fact]
+    public void Test1()
+    {
+        //Arrange
+
+        //Act
+
+        //Assert
     }
 }

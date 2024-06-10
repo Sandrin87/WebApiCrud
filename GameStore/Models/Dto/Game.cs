@@ -1,6 +1,5 @@
-﻿namespace GameStore.Models.Dto
+﻿namespace GameStore.Models.Dto;
+
+public class Game
 {
-    public class Game
-    {
-    }
 }

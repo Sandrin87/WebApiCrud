@@ -1,6 +1,5 @@
-﻿namespace GameStore.Repositories
+﻿namespace GameStore.Repositories;
+
+public class GameRepository
 {
-    public class GameRepository
-    {
-    }
 }

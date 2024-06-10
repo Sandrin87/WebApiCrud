@@ -1,6 +1,5 @@
-﻿namespace GameStore.Repositories.Interfaces
+﻿namespace GameStore.Repositories.Interfaces;
+
+public interface IGameRepository
 {
-    public interface IGameRepository
-    {
-    }
 }
