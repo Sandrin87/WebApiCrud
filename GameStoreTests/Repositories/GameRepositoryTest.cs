@@ -33,37 +33,7 @@ public class GameRepositoryTest
     }
 
     [Fact]
-    public void UpdateGamePriceShouldUpdateGamePrice()
-    {
-        //Arrange
-
-        //Act
-
-        //Assert
-    }
-
-    [Fact]
-    public void UpdateGameTags()
-    {
-        //Arrange
-
-        //Act
-
-        //Assert
-    }
-
-    [Fact]
-    public void UpdateGameVersion()
-    {
-        //Arrange
-
-        //Act
-
-        //Assert
-    }
-
-    [Fact]
-    public void ExcludeGameFromStore()
+    public void ExcludeGameShouldEraseFromDb()
     {
         //Arrange
 
